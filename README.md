@@ -1,6 +1,6 @@
 # droidcon KE 2023
 
-Flutter app for Kenya's 3rd Android Developer Conference - droidcon to be held in Nairobi from November 16-18th 2022.
+Flutter app for Kenya's 4th Android Developer Conference - droidcon to be held in Nairobi from November 8th-10th 2023.
 
 ## Features
 
